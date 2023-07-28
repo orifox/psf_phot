@@ -20,6 +20,19 @@ sdist
 develop-eggs
 .installed.cfg
 
+# FITS files
+*fits
+
+# folders
+mast
+mast_bu
+mastDownload
+MIRI_PSF_Photometry
+mydownloads
+NIRCam_PSF_Photometry
+
+
+
 # Installer logs
 pip-log.txt
 
